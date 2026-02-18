@@ -1,1 +1,6 @@
-import seaborn as sns
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
